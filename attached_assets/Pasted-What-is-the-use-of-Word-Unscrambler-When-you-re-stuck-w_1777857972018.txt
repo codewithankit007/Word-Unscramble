@@ -1,0 +1,26 @@
+What is the use of Word Unscrambler?
+When you’re stuck with some random letters, want to make words out of those scrambled letters? well, that’s what this website is designed for. Whether you need any help or just want to learn new words or perhaps you want to cheat a little :-), with such word games, this website will save your time and frustration often. Words games are going to be more fun if you have a well designed site like this one available at disposal. It also becomes easier to find answers for Word Cookies, Anagrams or Wordfeud if you use this site well. We also got a dedicated solver for Wordle if you like to play Wordle puzzles everyday.
+
+You can enter up to 12 letters (including two wild cards or blank tiles) and it shows you the valid words that can be made from the scrambled letters on board. Using this word helper tool, you will not only make yourself stronger against your opponent but also learn plenty of useful words and new combinations of letters, that would enrich your vocabulary as well (especially applicable to kids or learners or an enthusiast).
+
+How to use advanced options?
+You can change the dictionary if that’s applicable to the game you’re playing, otherwise leave it as it is. The default is TWL/OTCWL (official Scrabble dictionary for US/Canada/Thailand, based on the word list from NASPA). The other supported dictionary is SOWPODS (for UK and all, based on word list from CSW).
+
+When you click on 'Options' button, you will see these options. You can filter results by using “Starts with” or “End with” or “Must include” option. Please use this feature carefully otherwise this will not return any valid words at all. For words greater than 5 letters or when using wildcards it’s quite useful. This is reset with every search, however dctionary preference is saved for subsequent uses.
+
+How does this work ?
+It's very simple and easy, certainly fun to use. Lets say, you got these letters at your hand : shirkequl. If you got a blank tile, then append ? in input box. Want to use advanced options or change the dictionary? well, you're free to use that otherwise hit the Unscramble button and let this site do the heavy work for you! Here are the results for above search :
+
+8 letter words: rushlike
+7 letter words: hulkier, huskier etc
+6 letter words: shrike, hikers, quirks, squire, lusher, relish etc
+5 letter words: hiker, hikes, skier, shirk, hurls, lures, liers etc
+4 letter words: hike, risk, rise, heir, rule, rush, rusk, slur, sure, silk, sukh etc
+3 letter words: her, his, ski, hie, qis, sir, lie etc
+2 letter words: hi, sh, is, er, qi etc
+Tip : If the total no of words returned are too high, you can specify prefix or/both suffix using advanced options, to get more specific words you’re looking for.
+
+Note: Feel free to send us any feedback or report on the new look of our site. Thank you for visiting our website.
+
+Other pages : Jumble Solver Word Finder Words with Friends Cheat Word Solver Wordle Solver
+© 2026 WordUnscrambler.me Word Scramble Word Descrambler Sitemap About Contact Privacy

@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://unscrambleswords.com/sitemap.xml
+
+# Crawl-delay
+Crawl-delay: 1
+
+# Block irrelevant paths
+Disallow: /src/
+Disallow: /.local/
+Disallow: /node_modules/

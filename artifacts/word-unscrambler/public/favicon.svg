@@ -1,0 +1,13 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Tile background -->
+  <rect width="32" height="32" rx="6" fill="#F59E0B"/>
+  <!-- Inner tile surface (subtle gradient effect) -->
+  <rect x="1.5" y="1.5" width="29" height="29" rx="5" fill="#FCD34D"/>
+  <rect x="1.5" y="1.5" width="29" height="14.5" rx="5" fill="#FDE68A"/>
+  <!-- Bottom shadow inset -->
+  <rect x="1.5" y="25" width="29" height="5.5" rx="4" fill="#D97706" opacity="0.45"/>
+  <!-- W letter — bold and centered -->
+  <text x="16" y="21" font-family="Arial Black, Arial, sans-serif" font-size="17" font-weight="900" text-anchor="middle" fill="#1E1B4B" letter-spacing="-1">W</text>
+  <!-- Score dot bottom-right -->
+  <text x="27" y="30" font-family="Arial, sans-serif" font-size="6" font-weight="700" text-anchor="middle" fill="#92400E">4</text>
+</svg>

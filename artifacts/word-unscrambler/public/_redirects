@@ -1,0 +1,3 @@
+# Cloudflare Pages — SPA fallback
+# All routes serve index.html so wouter client-side routing works
+/*    /index.html    200

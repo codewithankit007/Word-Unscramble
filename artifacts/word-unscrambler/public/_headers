@@ -1,0 +1,35 @@
+# Cloudflare Pages — Security & performance headers
+
+# Cache static assets aggressively (JS/CSS change hash on every build)
+/assets/*
+  Cache-Control: public, max-age=31536000, immutable
+  X-Content-Type-Options: nosniff
+
+# Fonts cached for 1 year
+/*.woff2
+  Cache-Control: public, max-age=31536000, immutable
+
+# HTML — always revalidate so fresh content reaches users
+/*.html
+  Cache-Control: public, max-age=0, must-revalidate
+
+# Root HTML
+/
+  Cache-Control: public, max-age=0, must-revalidate
+  X-Frame-Options: SAMEORIGIN
+  X-Content-Type-Options: nosniff
+  X-XSS-Protection: 1; mode=block
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: microphone=self
+
+# Sitemap & robots — short cache so Google sees updates quickly
+/sitemap.xml
+  Cache-Control: public, max-age=3600
+/robots.txt
+  Cache-Control: public, max-age=3600
+
+# All pages — security defaults
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: microphone=self

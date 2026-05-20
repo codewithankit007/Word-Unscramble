@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- Core tools — highest priority -->
+  <url>
+    <loc>https://unscrambleswords.com/</loc>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://unscrambleswords.com/"/>
+    <xhtml:link rel="alternate" hreflang="en-ca" href="https://unscrambleswords.com/"/>
+    <xhtml:link rel="alternate" hreflang="en-gb" href="https://unscrambleswords.com/"/>
+  </url>
+  <url>
+    <loc>https://unscrambleswords.com/word-descrambler</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <url>
+    <loc>https://unscrambleswords.com/scrabble-word-finder</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <url>
+    <loc>https://unscrambleswords.com/wordle-helper</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <url>
+    <loc>https://unscrambleswords.com/anagram-solver</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.90</priority>
+  </url>
+  <url>
+    <loc>https://unscrambleswords.com/check-dictionary</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.90</priority>
+  </url>
+  <url>
+    <loc>https://unscrambleswords.com/wordle-solver</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.88</priority>
+  </url>
+  <url>
+    <loc>https://unscrambleswords.com/quordle-solver</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://unscrambleswords.com/wordfeud-helper</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://unscrambleswords.com/daily-challenge</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://unscrambleswords.com/word-scramble</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.82</priority>
+  </url>
+  <url>
+    <loc>https://unscrambleswords.com/random-word</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://unscrambleswords.com/favorites</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+  </url>
+
+  <!-- Words by length — high search volume -->
+  <url>
+    <loc>https://unscrambleswords.com/5-letter-words</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.92</priority>
+  </url>
+  <url>
+    <loc>https://unscrambleswords.com/4-letter-words</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.88</priority>
+  </url>
+  <url>
+    <loc>https://unscrambleswords.com/6-letter-words</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.87</priority>
+  </url>
+  <url>
+    <loc>https://unscrambleswords.com/7-letter-words</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.86</priority>
+  </url>
+  <url>
+    <loc>https://unscrambleswords.com/3-letter-words</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://unscrambleswords.com/8-letter-words</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.84</priority>
+  </url>
+  <url>
+    <loc>https://unscrambleswords.com/2-letter-words</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.83</priority>
+  </url>
+
+  <!-- Words starting with A–Z -->
+  <url><loc>https://unscrambleswords.com/words-starting-with-a</loc><changefreq>monthly</changefreq><priority>0.80</priority></url>
+  <url><loc>https://unscrambleswords.com/words-starting-with-b</loc><changefreq>monthly</changefreq><priority>0.78</priority></url>
+  <url><loc>https://unscrambleswords.com/words-starting-with-c</loc><changefreq>monthly</changefreq><priority>0.78</priority></url>
+  <url><loc>https://unscrambleswords.com/words-starting-with-d</loc><changefreq>monthly</changefreq><priority>0.78</priority></url>
+  <url><loc>https://unscrambleswords.com/words-starting-with-e</loc><changefreq>monthly</changefreq><priority>0.78</priority></url>
+  <url><loc>https://unscrambleswords.com/words-starting-with-f</loc><changefreq>monthly</changefreq><priority>0.76</priority></url>
+  <url><loc>https://unscrambleswords.com/words-starting-with-g</loc><changefreq>monthly</changefreq><priority>0.76</priority></url>
+  <url><loc>https://unscrambleswords.com/words-starting-with-h</loc><changefreq>monthly</changefreq><priority>0.76</priority></url>
+  <url><loc>https://unscrambleswords.com/words-starting-with-i</loc><changefreq>monthly</changefreq><priority>0.76</priority></url>
+  <url><loc>https://unscrambleswords.com/words-starting-with-j</loc><changefreq>monthly</changefreq><priority>0.74</priority></url>
+  <url><loc>https://unscrambleswords.com/words-starting-with-k</loc><changefreq>monthly</changefreq><priority>0.74</priority></url>
+  <url><loc>https://unscrambleswords.com/words-starting-with-l</loc><changefreq>monthly</changefreq><priority>0.74</priority></url>
+  <url><loc>https://unscrambleswords.com/words-starting-with-m</loc><changefreq>monthly</changefreq><priority>0.74</priority></url>
+  <url><loc>https://unscrambleswords.com/words-starting-with-n</loc><changefreq>monthly</changefreq><priority>0.74</priority></url>
+  <url><loc>https://unscrambleswords.com/words-starting-with-o</loc><changefreq>monthly</changefreq><priority>0.74</priority></url>
+  <url><loc>https://unscrambleswords.com/words-starting-with-p</loc><changefreq>monthly</changefreq><priority>0.76</priority></url>
+  <url><loc>https://unscrambleswords.com/words-starting-with-q</loc><changefreq>monthly</changefreq><priority>0.70</priority></url>
+  <url><loc>https://unscrambleswords.com/words-starting-with-r</loc><changefreq>monthly</changefreq><priority>0.76</priority></url>
+  <url><loc>https://unscrambleswords.com/words-starting-with-s</loc><changefreq>monthly</changefreq><priority>0.78</priority></url>
+  <url><loc>https://unscrambleswords.com/words-starting-with-t</loc><changefreq>monthly</changefreq><priority>0.76</priority></url>
+  <url><loc>https://unscrambleswords.com/words-starting-with-u</loc><changefreq>monthly</changefreq><priority>0.72</priority></url>
+  <url><loc>https://unscrambleswords.com/words-starting-with-v</loc><changefreq>monthly</changefreq><priority>0.72</priority></url>
+  <url><loc>https://unscrambleswords.com/words-starting-with-w</loc><changefreq>monthly</changefreq><priority>0.74</priority></url>
+  <url><loc>https://unscrambleswords.com/words-starting-with-x</loc><changefreq>monthly</changefreq><priority>0.65</priority></url>
+  <url><loc>https://unscrambleswords.com/words-starting-with-y</loc><changefreq>monthly</changefreq><priority>0.68</priority></url>
+  <url><loc>https://unscrambleswords.com/words-starting-with-z</loc><changefreq>monthly</changefreq><priority>0.68</priority></url>
+
+  <!-- Words ending in suffixes -->
+  <url><loc>https://unscrambleswords.com/words-ending-in-ing</loc><changefreq>monthly</changefreq><priority>0.82</priority></url>
+  <url><loc>https://unscrambleswords.com/words-ending-in-ed</loc><changefreq>monthly</changefreq><priority>0.80</priority></url>
+  <url><loc>https://unscrambleswords.com/words-ending-in-er</loc><changefreq>monthly</changefreq><priority>0.80</priority></url>
+  <url><loc>https://unscrambleswords.com/words-ending-in-ly</loc><changefreq>monthly</changefreq><priority>0.80</priority></url>
+  <url><loc>https://unscrambleswords.com/words-ending-in-tion</loc><changefreq>monthly</changefreq><priority>0.78</priority></url>
+  <url><loc>https://unscrambleswords.com/words-ending-in-ness</loc><changefreq>monthly</changefreq><priority>0.76</priority></url>
+  <url><loc>https://unscrambleswords.com/words-ending-in-ment</loc><changefreq>monthly</changefreq><priority>0.76</priority></url>
+  <url><loc>https://unscrambleswords.com/words-ending-in-less</loc><changefreq>monthly</changefreq><priority>0.76</priority></url>
+  <url><loc>https://unscrambleswords.com/words-ending-in-ful</loc><changefreq>monthly</changefreq><priority>0.76</priority></url>
+  <url><loc>https://unscrambleswords.com/words-ending-in-able</loc><changefreq>monthly</changefreq><priority>0.78</priority></url>
+
+  <!-- Info pages -->
+  <url>
+    <loc>https://unscrambleswords.com/about</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://unscrambleswords.com/sitemap</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.50</priority>
+  </url>
+
+</urlset>
